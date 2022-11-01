@@ -3,7 +3,7 @@ module.exports = {
     title: `SUMZI Blog`,
     author: {
       name: `sumin`,
-      summary: `💻 프론트엔드 개발 공부 블로그...!`,
+      summary: `💻 프론트엔드 개발 공부 블로그`,
     },
     description: ``,
     siteUrl: `https://sumzi.github.io/`,
